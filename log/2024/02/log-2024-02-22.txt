@@ -1,0 +1,117 @@
+2024-02-22 11:48:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\TiendaVargas\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2024-02-22 11:49:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\TiendaVargas\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2024-02-22 11:49:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 22[MESSAGGE]Undefined property: stdClass::$nombrecomercial
+
+2024-02-22 11:49:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 49[MESSAGGE]Undefined variable: formas_de_pago_mensaje
+
+2024-02-22 11:52:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 75[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 11:52:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 118[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 11:54:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 11:54:12[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 11:54:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 11:54:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 11:57:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 11:57:21[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 11:57:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\VentasController.php: 191[MESSAGGE]Undefined property: stdClass::$pago_seriecorrelativo
+
+2024-02-22 11:57:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\VentasController.php: 191[MESSAGGE]Undefined variable: tiempo_fecha
+
+2024-02-22 11:57:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\VentasController.php: 191[MESSAGGE]Trying to access array offset on value of type null
+
+2024-02-22 11:57:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\TiendaVargas\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2024-02-22 11:57:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 22[MESSAGGE]Undefined property: stdClass::$nombrecomercial
+
+2024-02-22 11:57:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 49[MESSAGGE]Undefined variable: formas_de_pago_mensaje
+
+2024-02-22 12:06:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 12:06:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 12:06:28[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 146[MESSAGGE]Undefined variable: ruta_qr
+
+2024-02-22 12:06:30[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\TiendaVargas\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2024-02-22 12:06:30[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 22[MESSAGGE]Undefined property: stdClass::$nombrecomercial
+
+2024-02-22 12:06:30[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 49[MESSAGGE]Undefined variable: formas_de_pago_mensaje
+
+2024-02-22 12:07:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 12:07:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 12:07:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 146[MESSAGGE]Undefined variable: ruta_qr
+
+2024-02-22 12:32:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 12:32:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 12:32:48[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 146[MESSAGGE]Undefined variable: ruta_qr
+
+2024-02-22 12:34:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 12:34:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 12:34:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 146[MESSAGGE]Undefined variable: ruta_qr
+
+2024-02-22 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\reportes\inicio.php: 45[MESSAGGE]Undefined property: stdClass::$venta_monto
+
+2024-02-22 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\reportes\inicio.php: 45[MESSAGGE]Undefined property: stdClass::$venta_monto
+
+2024-02-22 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\reportes\inicio.php: 45[MESSAGGE]Undefined property: stdClass::$venta_monto
+
+2024-02-22 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\reportes\inicio.php: 45[MESSAGGE]Undefined property: stdClass::$venta_monto
+
+2024-02-22 12:41:19[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\reportes\inicio.php: 45[MESSAGGE]Undefined property: stdClass::$venta_monto
+
+2024-02-22 12:42:57[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\CajaController.php: 68[MESSAGGE]Undefined variable: message
+
+2024-02-22 12:42:58[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\caja\inicio.php: 45[MESSAGGE]Undefined variable: datos_apertura_caja
+
+2024-02-22 15:23:35[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\caja\inicio.php: 45[MESSAGGE]Undefined variable: datos_apertura_caja
+
+2024-02-22 15:23:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\CajaController.php: 47[MESSAGGE]Trying to get property 'id_caja' of non-object
+
+2024-02-22 15:23:40[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\CajaController.php: 68[MESSAGGE]Undefined variable: message
+
+2024-02-22 15:26:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 15:26:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 15:26:22[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 146[MESSAGGE]Undefined variable: ruta_qr
+
+2024-02-22 15:26:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\TiendaVargas\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2024-02-22 15:26:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 22[MESSAGGE]Undefined property: stdClass::$nombrecomercial
+
+2024-02-22 15:26:43[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 49[MESSAGGE]Undefined variable: formas_de_pago_mensaje
+
+2024-02-22 15:33:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 76[MESSAGGE]Undefined property: stdClass::$cliente_numero
+
+2024-02-22 15:33:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 119[MESSAGGE]Undefined property: stdClass::$venta_detalle_valor_unitario
+
+2024-02-22 15:33:50[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\ventas\venta_detalle.php: 146[MESSAGGE]Undefined variable: ruta_qr
+
+2024-02-22 15:34:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8192 IN C:\laragon\www\TiendaVargas\app\view\pdf\fpdf\fpdf.php: 1108[MESSAGGE]Function get_magic_quotes_runtime() is deprecated
+
+2024-02-22 15:34:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 22[MESSAGGE]Undefined property: stdClass::$nombrecomercial
+
+2024-02-22 15:34:11[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\vista_pdf\inicio.php: 49[MESSAGGE]Undefined variable: formas_de_pago_mensaje
+
+2024-02-22 15:34:54[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\controllers\CajaController.php: 68[MESSAGGE]Undefined variable: message
+
+2024-02-22 15:34:55[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\caja\inicio.php: 45[MESSAGGE]Undefined variable: datos_apertura_caja
+
+2024-02-22 15:35:04[UTC -5] [ip] 127.0.0.1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\TiendaVargas\app\view\caja\inicio.php: 45[MESSAGGE]Undefined variable: datos_apertura_caja
+
+2024-02-22 17:17:09[UTC -5] [ip] 127.0.0.1 [lugar] Ventas|tipo_documento [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tienda_vargas.tipo_documento' doesn't exist
